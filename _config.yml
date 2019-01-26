@@ -59,3 +59,5 @@ title: Devhints.io cheatsheets
 # https://help.github.com/articles/repository-metadata-on-github-pages/
 
 repository: rstacruz/cheatsheets
+
+theme: jekyll-theme-minimal
